@@ -21,10 +21,5 @@ THEN they fall in sequential order
 WHEN I view the title element  
 THEN I find a concise, descriptive title  
 
-## Changes Made
--Added a more descriptive name with the company name as title  
--Added semantic tags (header, nav, section, artile, aside, footer)  
--Fixed the missing id to make the navigation link work  
--Consolidated any repetitive css and changed the selectors to be specific  
--Added alt text to describe the images  
--Added comments on both HTML and CSS  
+## Link to Deployed Application
+https://thitareep.github.io/Module1_Challenge/
