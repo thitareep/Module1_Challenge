@@ -51,11 +51,14 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Hero/Banner Image Style */
+section.hero {
+    margin-bottom: 25px;
+}
+
+section.hero img {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
