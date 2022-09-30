@@ -22,5 +22,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title  
 
 ## Link to Deployed Application
-https://thitareep.github.io/Module1_Challenge/
+https://thitareep.github.io/Module1_Challenge/  
 Thitaree Pongpluempitichai
